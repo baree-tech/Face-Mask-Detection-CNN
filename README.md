@@ -101,7 +101,7 @@ This project showcases:
 
 How to Run the Project
 	1.	Open the project in Google Colab
-  2.  Download the datase from kaggle
+        2.      Download the datase from kaggle
 	3.	Upload the zip dataset from your local computer
 	4.	Extract using Python zipfile as shown in the notebook
 	5.	Run all notebook cells from top to bottom
@@ -109,6 +109,15 @@ How to Run the Project
 	•	tensorflow, numpy, matplotlib, seaborn, scikit-learn
 
 ⸻
+
+Inluded files
+  
+### Sample Images from Dataset
+![Sample Images](images/facemask_sample_images)
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+### Predicted Results
+![Sample Predictions](sample_predictions.png)
 
 Project Files
 	•	Notebook: View on GitHub
