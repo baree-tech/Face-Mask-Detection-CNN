@@ -113,7 +113,7 @@ How to Run the Project
 Inluded files
   
 ### Sample Images from Dataset
-![Sample Images](images/facemask_sample_images)
+![Sample Images](images/facemask_sample_images.png)
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
 ### Predicted Results
